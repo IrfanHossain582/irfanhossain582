@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:1f6feb&text=Irfan%20Hossain&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20%26%20Automation%20Engineer&descSize=18&descAlignY=60" alt="Irfan Hossain" width="100%"/>
+<img src="banner.svg" alt="Irfan Hossain, AI and Automation Engineer" width="100%"/>
 
 <a href="https://github.com/IrfanHossain582">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+voice+agents+that+book+real+appointments;CRM+systems+built+from+scratch+in+GoHighLevel;Workflows+across+Make%2C+n8n+and+Zapier;Python+%C2%B7+LLMs+%C2%B7+APIs+%C2%B7+Webhooks" alt="Typing intro" />
@@ -160,7 +160,7 @@ Responsive real estate site connected to GoHighLevel, with lead capture funnels,
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IrfanHossain582&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
+<img src="https://ghchart.rshah.org/1f6feb/IrfanHossain582" alt="Contribution graph" width="100%"/>
 
 </div>
 
@@ -171,5 +171,5 @@ Responsive real estate site connected to GoHighLevel, with lead capture funnels,
 Open to AI and automation projects, CRM builds and voice agent work. The fastest way to reach me is **irfanhossain582@gmail.com**.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1f6feb,100:0d1117&section=footer" width="100%"/>
+<img src="footer.svg" alt="" width="100%"/>
 </div>
