@@ -69,22 +69,22 @@ CRM development and migration, pipeline automation, lead management, sales funne
 ## Selected projects
 
 <details open>
-<summary><b><a href="https://brightaisolutions.ai/">Bright AI Solution</a></b> · AI calling workflow</summary>
+<summary><b><a href="https://brightaisolutions.ai/?utm_source=github&utm_medium=profile_readme&utm_campaign=bright_ai">Bright AI Solution</a></b> · AI calling workflow</summary>
 <br/>
 
 End-to-end AI voice calling built with Vapi and OpenAI, tied into CRM, appointment booking, lead qualification and follow-up automation through APIs and webhooks.
 
-**Stack:** Vapi, OpenAI, webhooks · [Visit site](https://brightaisolutions.ai/)
+**Stack:** Vapi, OpenAI, webhooks · [Visit site](https://brightaisolutions.ai/?utm_source=github&utm_medium=profile_readme&utm_campaign=bright_ai)
 
 </details>
 
 <details open>
-<summary><b><a href="https://aesthetixcrm.com/">Aesthetix CRM</a></b> · Backend CRM and conversion automation</summary>
+<summary><b><a href="https://aesthetixcrm.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=aesthetix">Aesthetix CRM</a></b> · Backend CRM and conversion automation</summary>
 <br/>
 
 Moved an existing CRM ecosystem into GoHighLevel while keeping customer data, pipelines, workflows and automation logic, then rebuilt opportunities, calendars, forms, surveys and custom fields.
 
-**Stack:** GoHighLevel, migration, automation · [Visit site](https://aesthetixcrm.com/)
+**Stack:** GoHighLevel, migration, automation · [Visit site](https://aesthetixcrm.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=aesthetix)
 
 </details>
 
