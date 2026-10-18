@@ -1,4 +1,3 @@
-
 <!-- Save as README.md in the PUBLIC repo IrfanHossain582/irfanhossain582 -->
 
 <div align="center">
@@ -87,18 +86,22 @@ Behind that sits a computer science degree with a data science major, and a rese
 <tr>
 <td width="50%" valign="top">
 
-### Bright AI Solution
+### [Bright AI Solution](https://brightaisolutions.ai/)
 End-to-end AI calling workflow with Vapi and OpenAI, tied into CRM, appointment booking, lead qualification and follow-up automation through APIs and webhooks.
 
 `Vapi` `OpenAI` `Webhooks`
 
+[Visit site →](https://brightaisolutions.ai/)
+
 </td>
 <td width="50%" valign="top">
 
-### Aesthetix CRM migration
-Moved an existing CRM ecosystem into GoHighLevel while keeping customer data, pipelines, workflows and automation logic. Rebuilt opportunities, calendars, forms, surveys and custom fields.
+### [Aesthetix CRM](https://aesthetixcrm.com/)
+Backend CRM and conversion automation work. Moved an existing CRM ecosystem into GoHighLevel while keeping customer data, pipelines, workflows and automation logic, then rebuilt opportunities, calendars, forms, surveys and custom fields.
 
-`GoHighLevel` `Migration`
+`GoHighLevel` `Migration` `Automation`
+
+[Visit site →](https://aesthetixcrm.com/)
 
 </td>
 </tr>
